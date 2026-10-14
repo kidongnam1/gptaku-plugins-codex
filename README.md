@@ -1,3 +1,7 @@
+> **대표 저장소 안내 · 2026-10-14**
+>
+> 앞으로 이 개인 복사본 대신 [GY-CORE/gptaku-plugins-codex](https://github.com/GY-CORE/gptaku-plugins-codex)에서 관리합니다. 비교 당시 두 main의 커밋 `35ca9910e71689c5c23c9a41bf0ca081132be4a6`과 전체 Git tree가 같고, 1,668개 파일 내용·실행 비트가 모두 같습니다. 이 저장소의 기존 이력은 읽기 전용으로 보존합니다.
+
 English | [한국어](README.ko.md)
 
 # gptaku-plugins-codex
